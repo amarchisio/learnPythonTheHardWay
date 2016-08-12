@@ -1,2 +1,0 @@
-# learnPythonTheHardWay
-Python Refresher
